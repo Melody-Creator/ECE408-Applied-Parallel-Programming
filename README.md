@@ -47,3 +47,7 @@ rai -p ./MP0
 ****
 On Windows, you'll need to install WSL and a virtual linux OS. Several Linux versions are available
 through the Microsoft Store.
+
+# ACADEMIC INTEGRITY
+
+Please do **NOT** copy **ANY** code directly as your own work. Doing this is a violation of academic integrity. **You have been warned.**
